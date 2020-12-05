@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146542806935",
+    "firebase_url": "https://comicreader-a3f36.firebaseio.com",
+    "project_id": "comicreader-a3f36",
+    "storage_bucket": "comicreader-a3f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146542806935:android:e04497746ccf1f55aae6d2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_comic_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146542806935-ukqlilsmnnnd363cm8eq0lhc7qbg31dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrtmulc4rbPHnh6n55pJvDpngo9fxfHUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146542806935-ukqlilsmnnnd363cm8eq0lhc7qbg31dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
